@@ -1,0 +1,28 @@
+{
+  "name": "geiser",
+  "version": "1.0.0",
+  "description": "um visualizador de pcs fritando",
+  "main": "server/index.hbs",
+  "directories": {
+    "doc": "docs"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroCardoso1/cefet-web-geiser.git"
+  },
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroCardoso1/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/PedroCardoso1/cefet-web-geiser#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "hbs": "^4.1.2"
+  }
+}
